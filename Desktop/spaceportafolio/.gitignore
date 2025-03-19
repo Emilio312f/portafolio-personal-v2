@@ -1,0 +1,84 @@
+# Ignorar directorios del sistema
+Configuración local/
+Cookies/
+Datos de programa/
+Entorno de red/
+Impresoras/
+Menú Inicio/
+Mis documentos/
+Plantillas/
+Reciente/
+SendTo/
+
+# Ignorar directorios y archivos personales
+../../Documents/
+../../Downloads/
+../../Pictures/
+../../Videos/
+../../Music/
+../../AppData/
+../../OneDrive/
+../../NTUSER.DAT*
+../../ntuser.*
+
+# Ignorar archivos temporales y de sistema
+*.log
+*.ini
+*.7z
+*.xml
+*.lnk
+desktop.ini
+
+# Ignorar otros directorios y archivos no deseados
+../../.Icecream Screen Recorder/
+../../.Ld2VirtualBox/
+../../.VirtualBox/
+../../.android/
+../../.bash_history
+../../.cache/
+../../.cursor/
+../../.dotnet/
+../../.gitconfig
+../../.gradle/
+../../.html
+../../.idlerc/
+../../.m2/
+../../.nbi/
+../../.node_repl_history
+../../.nuget/
+../../.p2/
+../../.vscode/
+../../3D Objects/
+../../AndroidStudioProjects/
+../../Contacts/
+../.vs/
+../Cursor.lnk
+../DxDiag.txt
+../HERRAMIENTAS SITIOS WEB/
+../PROYECTO PARA PORTAFOLIO/
+../Postman.lnk
+../../Favorites/
+../../IntelGraphicsProfiles/
+../../Links/
+../../MicrosoftEdgeBackups/
+../../Nox_share/
+../../ProyectsHTML/
+../../PycharmProjects/
+../../Saved Games/
+../../Searches/
+../../Tracing/
+../../d4ac4633ebd6440fa397b84f1bc94a3c.7z
+../../eclipse/
+../../fitcustom/
+../../formulario/
+../../formulariobd/
+../../index.html
+../../inittk.ini
+../../inst.ini
+../../log/
+../../package-lock.json
+../../pseint/
+../../servicio-reparacion-new/
+../../source/
+../../useruid.ini
+../../vmlogs/
